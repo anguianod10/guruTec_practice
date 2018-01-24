@@ -1,0 +1,2 @@
+# guruTec_practice
+practice
